@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 😁 I'm an embedded system development engineer
+
+- 🐵 I'm working on IOT stuff
+
+- 👀 I'm good at rtos && linux programming
+
+  
+
 <!--
 **hywing/hywing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
