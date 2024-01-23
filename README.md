@@ -2,7 +2,7 @@
 
 - 😁 I'm an embedded system development engineer
 
-- 🐵 I'm working on IOT stuff
+- 🐵 I'm working on IoT stuff
 
 - 👀 I'm good at rtos && linux programming
 
