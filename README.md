@@ -7,7 +7,7 @@
 - 👀 I'm good at rtos && linux programming
 
 ### GitHub
-![info](https://github-readme-stats.vercel.app/api?username=hywing&show_icons=true&count_private=true&theme=default_repocard)
+![info](https://github-readme-stats.vercel.app/api?username=hywing&show_icons=true&count_private=true&theme=dark)
 ### Project
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hywing&theme=dark&layout=compact)
 ### Activity
