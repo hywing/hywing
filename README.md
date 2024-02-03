@@ -9,7 +9,7 @@
   
 ![info](https://github-readme-stats.vercel.app/api?username=hywing&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 [![hywing's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hywing&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=hywing&left_color=green&right_color=red)
 
 
 
