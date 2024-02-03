@@ -8,7 +8,8 @@
 
   
 ![info](https://github-readme-stats.vercel.app/api?username=hywing&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
-![message](https://activity-graph.herokuapp.com/graph?username=hywing)
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=hywing&theme=xcode" /> </div>
+
 
 
 <!--
