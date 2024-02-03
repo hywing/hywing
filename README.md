@@ -7,7 +7,8 @@
 - 👀 I'm good at rtos && linux programming
 
   
-<div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=hywing&hide_title=true&hide_border=true&show_icons=trueline_height=21&count_private=true&theme=default_repocard" /> </div>
+![info](https://github-readme-stats.vercel.app/api?username=hywing&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
 
 <!--
 **hywing/hywing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
