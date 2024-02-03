@@ -6,9 +6,10 @@
 
 - 👀 I'm good at rtos && linux programming
 
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=hywing&theme=xcode" /> </div>
   
 ![info](https://github-readme-stats.vercel.app/api?username=hywing&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=hywing&theme=xcode" /> </div>
+
 
 
 
