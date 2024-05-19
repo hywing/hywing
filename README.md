@@ -2,7 +2,7 @@
 
 ### About
 
-😁 I'm an embedded system development engineer
+😁 I major in EE course and I'm an embedded system development engineer now
 
 🐵 I'm working on IoT Stuff
 
