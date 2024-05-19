@@ -6,7 +6,7 @@
 
 🐵 I'm working on IoT Stuff
 
-👀 I'm good at rtos、Linux、Windows programming
+👀 I'm good at RTOS、Linux、Windows programming
 
 🔔 I'd like to do something for fun such as auto pilot、robot、industrial automation
 
