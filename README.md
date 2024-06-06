@@ -4,7 +4,7 @@
 
 😁 I major in EE course and I'm an embedded system development engineer now
 
-🐵 I'm working on IoT Stuff
+🐵 I'm working on IoT Stuff、Industrial Automation、Automotive Electronics
 
 👀 I'm good at RTOS、Linux、Windows programming
 
