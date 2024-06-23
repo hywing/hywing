@@ -26,6 +26,7 @@
 		<a href="https://hywing.github.io/about" target="_blank" rel="noopener noreferrer"><img width="30" src="https://hywing.github.io/img/me.jpg" title="下里巴人"></a>
 		<a href="https://www.cnblogs.com/hywing" target="_blank" rel="noopener noreferrer"><img width="30" src="https://hywing.github.io/img/cnblog.jpg" title="hywing"></a>
 		<a href="https://blog.51cto.com/hywing" target="_blank" rel="noopener noreferrer"><img width="30" src="https://hywing.github.io/img/51cto.jpg" title="hywing"></a>
+		<a href="https://hywing.blog.csdn.net/" target="_blank" rel="noopener noreferrer"><img width="30" src="https://hywing.github.io/img/csdn.jpg" title="hywing"></a>
 		<a href="https://iotstuff.cn" target="_blank" rel="noopener noreferrer"><img width="30" src="https://hywing.github.io/img/favicon.png" title="物联网那些事儿"></a>
 		<a href="https://space.bilibili.com/234017879" target="_blank" rel="noopener noreferrer"><img width="30" src="https://hywing.github.io/img/b.jpg" title="B站"></a>
 	</div>
