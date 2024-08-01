@@ -13,7 +13,7 @@
 ♾️ For more information about me，please browse the [website](https://hywing.github.io/)
 
 ### GitHub
-![info](https://github-readme-stats.vercel.app/api?username=hywing&show_icons=true&count_private=true&theme=dark)
+![info](https://github-readme-stats.vercel.app/api?username=hywing&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&layout=compact&hide_border=true)
 ### Project
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hywing&theme=dark&layout=compact)
 ### Activities
