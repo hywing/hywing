@@ -12,14 +12,21 @@
 
 ♾️ For more information about me，please browse the [website](https://hywing.github.io/)
 
+<div align=center> 
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=23&center=true&vCenter=true&width=600&height=50&lines=+;hello world;" alt="Headline" /> 
+</div>
+
 ### GitHub
-![info](https://github-readme-stats.vercel.app/api?username=hywing&show_icons=true&include_all_commits=true&count_private=true&theme=dark&layout=compact&hide_border=true)
+![info](https://github-readme-stats.vercel.app/api?username=hywing&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&layout=compact&hide_border=true)
 
 ### Project
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hywing&theme=dark&layout=compact)
 
 ### Activities
 [![hywing's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hywing&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### History
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hywing&theme=nord&hide_border=true" alt="hywing" />
 
 ### Links
 
