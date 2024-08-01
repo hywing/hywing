@@ -14,8 +14,10 @@
 
 ### GitHub
 ![info](https://github-readme-stats.vercel.app/api?username=hywing&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&layout=compact&hide_border=true)
+
 ### Project
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hywing&theme=dark&layout=compact)
+
 ### Activities
 [![hywing's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hywing&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
