@@ -19,7 +19,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hywing&theme=dark&layout=compact)
 
 ### Activities
-![hywing's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hywing&theme=vue)]
+![hywing's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hywing&theme=vue)
 
 ### History
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hywing&theme=radical&date_format=%5BY.%5Dn.j&hide_border=true" alt="hywing" />
