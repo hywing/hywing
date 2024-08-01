@@ -12,10 +12,6 @@
 
 ♾️ For more information about me，please browse the [website](https://hywing.github.io/)
 
-<div align=center> 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=23&center=true&vCenter=true&width=600&height=50&lines=+;hello world;" alt="Headline" /> 
-</div>
-
 ### GitHub
 ![info](https://github-readme-stats.vercel.app/api?username=hywing&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&layout=compact&hide_border=true)
 
