@@ -10,7 +10,7 @@
 
 🔔 I'd like to do something for fun such as auto pilot、robot、industrial automation
 
-♾️ For more information about me，please browse the [website](https://hywing.cn/about)
+♾️ For more information about me，please browse the [website](https://hywing.cn/about), find me in [LinkedIn](https://www.linkedin.com/in/hywing)
 
 ### GitHub
 <!-- GRS (Light Mode) -->
