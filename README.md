@@ -60,6 +60,3 @@
   </table>
 
 </a>
-
-### Activities
-![hywing's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hywing&theme=vue)
