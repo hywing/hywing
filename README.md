@@ -8,7 +8,7 @@
 
 👀 I'm good at RTOS、Linux、Windows programming
 
-🔔 I'd like to do something for fun such as auto pilot、robot、industrial automation
+🔔 I'd like to do something for fun such as auto pilot、robot、industrial automation、AI
 
 ♾️ For more information about me, please browse this [page](https://post.hywing.cn/about) or just find me in [LinkedIn](https://www.linkedin.com/in/hywing)
 
