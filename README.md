@@ -12,10 +12,11 @@
       ♾️ For more information about me, please browse this <a href="https://hywing.cn/about">page</a> or just find me in <a href="https://www.linkedin.com/in/hywing">LinkedIn</a>
     </td>
     <td valign="middle" align="center" style="border: 0;">
-      <img src="fan.gif" alt="fan" width="150">
+      <img src="fan.gif" alt="fan" width="200">
     </td>
   </tr>
 </table>
+
 
 ### GitHub
 <!-- GRS (Light Mode) -->
