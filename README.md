@@ -2,9 +2,9 @@
 
 ### About
 
-<table cellspacing="0" cellpadding="0">
+<table cellspacing="0" cellpadding="0" style="border: 0;">
   <tr>
-    <td valign="top" style="padding-right: 20px;">
+    <td valign="top" style="padding-right: 20px; border: 0;">
       😁 I major in EE course and I'm an embedded system development engineer now<br><br>
       🐵 I'm working on IoT Stuff、Industrial Automation、Automotive Electronics<br><br>
       👀 I'm good at Bare-Metal、RTOS、Linux、Windows programming<br><br>
@@ -12,7 +12,7 @@
       ♾️ For more information about me, please browse this <a href="https://hywing.cn/about">page</a> or just find me in <a href="https://www.linkedin.com/in/hywing">LinkedIn</a>
     </td>
     <td valign="middle" align="center" style="border: 0;">
-      <img src="fan.gif" alt="fan" width="200">
+      <img src="fan.gif" alt="fan" width="150">
     </td>
   </tr>
 </table>
