@@ -9,7 +9,7 @@
       🐵 I'm working on IoT Stuff、Industrial Automation、Automotive Electronics<br><br>
       👀 I'm good at Bare-Metal、RTOS、Linux、Windows programming<br><br>
       🔔 I'd like to do something for fun such as auto pilot、robot、industrial automation、AI<br><br>
-      ♾️ For more information about me, please browse this <a href="https://hywing.cn/about">page</a> or just find me in <a href="https://www.linkedin.com/in/hywing">LinkedIn</a>
+      ♾️ For more information about me, please browse this <a href="https://hywing.cn/about">page</a> or just look me up on <a href="https://www.linkedin.com/in/hywing">LinkedIn</a>
     </td>
     <td valign="middle" align="center" style="border: 0;">
       <img src="fan.gif" alt="fan" width="200">
