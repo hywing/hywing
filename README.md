@@ -12,7 +12,7 @@
       ♾️ For more information about me, please browse this <a href="https://hywing.cn/about">page</a> or look me up on <a href="https://www.linkedin.com/in/hywing">LinkedIn</a>
     </td>
     <td valign="middle" align="center" style="border: 0;">
-      <img src="fan.gif" alt="fan" width="200">
+      <img src="https://github.com/user-attachments/assets/b8526fc4-da34-4228-8c21-697b4d7c9afe" alt="fan" width="200">
     </td>
   </tr>
 </table>
